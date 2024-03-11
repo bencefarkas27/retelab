@@ -1,7 +1,7 @@
 # Train Speed Controller
 
 This is a sample application for the verification laboratory.
-// **retelabor mit2** *comment* _for readme_
+// **retelabor mit2** *comment* <u>for readme<u>
 ## Getting started
 
 * The application is implemented in Java.
